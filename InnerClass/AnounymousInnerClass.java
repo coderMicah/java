@@ -20,7 +20,7 @@ class Demo
 {
     public static void main(String a[])
     {
-        //we now override using a inner anounymous class
+        //we now override using a inner anounymous class in demo
         A obj = new A()
         {
             public void show()
